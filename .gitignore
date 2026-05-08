@@ -1,0 +1,30 @@
+# Sekrety — NIGDY nie commituj tokenu!
+.env
+
+# Baza danych SQLite
+bot.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Środowisko wirtualne
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Pliki tymczasowe TTS
+tts_temp.mp3
+*.mp3
+
+# Logi
+bot.log
+
+# System
+.DS_Store
+Thumbs.db
