@@ -6,7 +6,7 @@ Lookup O(1) dzięki zbiorowi (set).
 
 PANSTWA: set[str] = {
     # A
-    "afganistan", "albania", "algieria", "andorra", "angola",
+    "afganistan", "albania", "algieria", "andora", "andorra", "angola",
     "antigua i barbuda", "arabia saudyjska", "argentyna", "armenia",
     "australia", "austria", "azerbejdżan", "azerbajdzan",
     # B
@@ -16,18 +16,18 @@ PANSTWA: set[str] = {
     "botswana", "brazylia", "brunei", "bułgaria", "bulgaria",
     "burkina faso", "burundi",
     # C
-    "chile", "chiny", "chorwacja", "czad", "czarnogóra", "czarnogora",
+    "chile", "chiny", "chorwacja", "cypr", "czad", "czarnogóra", "czarnogora",
     "czechy", "republika czeska",
     # D
     "dania", "demokratyczna republika konga", "dominika",
-    "dominikana", "republika dominikańska",
+    "dominikana", "republika dominikańska", "dżibuti", "dzibuti",
     # E
-    "egipt", "ekwador", "erytrea", "eswatini", "etiopia",
+    "egipt", "ekwador", "erytrea", "estonia", "eswatini", "etiopia",
     # F
     "fidżi", "fidzi", "filipiny", "finlandia", "francja",
     # G
     "gabon", "gambia", "ghana", "grecja", "grenada",
-    "gruzja", "gwatemala", "gwinea", "gwinea bissau",
+    "gruzja", "gujana", "gwatemala", "gwinea", "gwinea bissau",
     "gwinea równikowa", "gwinea rownikowa",
     # H
     "haiti", "hiszpania", "holandia", "niderlandy", "honduras",
@@ -40,7 +40,7 @@ PANSTWA: set[str] = {
     "kambodża", "kambodza", "kamerun", "kanada", "katar",
     "kazachstan", "kenia", "kiribati", "kolumbia", "komory",
     "kongo", "republika konga", "korea południowa", "korea polnocna",
-    "korea północna", "kostaryka", "kuba", "kuwejt", "kirgistan",
+    "korea północna", "kosowo", "kostaryka", "kuba", "kuwejt", "kirgistan",
     "kirgizja",
     # L
     "laos", "lesotho", "liban", "liberia", "libia",
@@ -48,6 +48,7 @@ PANSTWA: set[str] = {
     # Ł
     "łotwa", "latwa",
     # M
+    "macedonia północna", "macedonia polnocna", "macedonia",
     "madagaskar", "malawi", "malediwy", "malezja", "mali",
     "malta", "maroko", "mauretania", "mauritius", "meksyk",
     "mikronezja", "mołdawia", "moldawia", "monako", "mongolia",
@@ -60,7 +61,7 @@ PANSTWA: set[str] = {
     "oman",
     # P
     "pakistan", "palau", "palestyna", "panama", "papua nowa gwinea",
-    "paragwaj", "peru", "polska", "portugalia",
+    "papua-nowa gwinea", "paragwaj", "peru", "polska", "portugalia",
     # R
     "republika południowej afryki", "republika poludniowej afryki",
     "republika środkowoafrykańska", "republika srodkowoafrykanska",
@@ -71,6 +72,7 @@ PANSTWA: set[str] = {
     "seszele", "sierra leone", "singapur", "słowacja", "slowacja",
     "słowenia", "slowenia", "somalia", "sri lanka", "stany zjednoczone",
     "usa", "sudan", "sudan południowy", "surinam", "syria",
+    "szwajcaria", "szwecja",
     # Ś
     "świętego tomasza i książęca", "swietego tomasza i ksiazeca",
     # T
@@ -83,6 +85,9 @@ PANSTWA: set[str] = {
     "vanuatu",
     # W
     "watykan", "wenezuela", "węgry", "wegry",
+    "wielka brytania", "anglia", "wietnam",
+    "włochy", "wlochy",
+    "wybrzeże kości słoniowej", "wybrzeze kosci sloniowej",
     # Z
     "zambia", "zimbabwe", "zjednoczone emiraty arabskie", "zea",
     "zielony przylądek", "zielony przyladek",
